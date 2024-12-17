@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+    /* font-size: 20px; */
+}
+
+
+div{
+
+    margin: 200px auto;
+
+    /* font-size: 5px; */
+    
+    width: 400px;
+    /* width: 50%; */
+    
+    /* width: 10rem; */
+     /* (font 16px * 10rem= 160) */
+    
+     /* width: 10em;  */
+    /* (font 5px * 10em= 50) */
+    /* (font default 16px * 10em= 160) */
+
+
+
+    height: 300px;
+
+
+    /* rgb */
+    /* background-color: rgb(red, green, blue); */
+    /* background-color: rgb(160, 25, 160); */
+
+
+
+    /* rgba */
+    /* background-color: rgba(red, green, blue, alpha); */
+    /* background-color: rgba(85, 12, 55, 0.55); */
+    color: white;
+
+
+   
+    /* (hex-3/6 digit) */
+     /* background-color: #000; */
+     /* background-color: #fff; */
+     background-color: #a0524499; 
+
+}
+
+
